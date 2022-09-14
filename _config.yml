@@ -22,7 +22,7 @@ title: GitPages Sample
 email: cgriego@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Sample GitPages from CU Boulder CRDDS. Thanks yinz!
-baseurl: "/home" # the subpath of your site, e.g. /blog
+baseurl: "/chaszg.github.io" # the subpath of your site, e.g. /blog
 url: "https://chaszg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
